@@ -1,4 +1,4 @@
-## Medical Image Encryption
+# Medical Image Encryption
 
 With the growing significance of using medical images to diagnose diseases, it has become crucial to protect these images during transfer over networks.
 Unauthorized use or manipulation of medical imaging data can have detrimental effects, including invasions of privacy and wrong diagnoses that may put patients' lives in danger.
